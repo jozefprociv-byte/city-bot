@@ -1,0 +1,9 @@
+{
+  "name": "city-bot",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "grammy": "^1.30.0",
+    "@supabase/supabase-js": "^2.45.0"
+  }
+}
